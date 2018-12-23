@@ -1,0 +1,12 @@
+
+value based and policy based RL 
+value based
+  learnt value function
+  implicate policy
+policy based 
+  no value function
+  learnt policy
+Actor critic
+  learnt value function
+  implicate policy
+  
